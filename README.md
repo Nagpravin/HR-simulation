@@ -61,7 +61,9 @@ git clone https://github.com/Nagpravin/HR-simulation.git
 cd advanced-hr-simulation
 
 #Install dependencies
+
 pip install -r requirements.txt
 
 #Run the Streamlit app
+
 streamlit run main.py
